@@ -13,6 +13,8 @@ import java.util.Scanner;
                 inhabitants /=2;
             }
 
+            //test test test
+
 
         }
 }
